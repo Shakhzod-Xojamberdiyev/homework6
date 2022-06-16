@@ -1,0 +1,140 @@
+body {
+    font-family: "Rubik","Arial", sans-serif;
+}
+.header-top{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-start{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.site-header-item-currency-link{
+    text-decoration: none;
+    color: #5E5F61;
+}
+.currency{
+    color: #2959CE;
+}
+.site-header-list{
+    width: 150px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.header-start2{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search{
+    width: 275px;
+}
+.voyti{
+    width: 89px;
+}
+
+.name-nav{
+    width: 1200px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.names-nav {
+text-decoration: none;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #7F7F7F;
+}
+
+
+.main-news{
+    width: 1200px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    list-style: none;
+
+}
+
+.second-adv{
+    width: 1050px;
+    background-color: coral;
+}
+
+.main-news-text {
+list-style: none;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+color: #000000;
+}
+.end-of-news {
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #5E5F61;
+}
+
+.end-of-site {
+    background: #7297EF;
+}
+.start-footer{
+    display: flex;
+    align-items: center;
+}
+.end-footer{
+    display: flex;
+}
+
+.namanganlikla {
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color:white;
+}
+.text-of-futer {
+    color: white;
+}
+.text-of-ul {
+    
+    list-style: none;
+    color: white;
+   
+}
+.text-of-ul1{
+    list-style: none;
+    color: white;
+    display: flex; 
+    
+
+}
+.text-of-li {
+    text-decoration: none;
+ color: white;
+}
+.vmire{
+    width: 1200px;
+    display: flex;
+}
+.main-news-li{
+    width: 1200px;
+display: flex;
+}
+.main-news1{
+    list-style: none;
+}
