@@ -68,6 +68,21 @@ color: #7F7F7F;
 .second-adv{
     width: 1050px;
     background-color: coral;
+    display: flex;
+    align-items: center;
+}
+
+.h2-text{
+    width: 404px;
+    height: 52px;
+    left: 240px;
+    top: 1252px;
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
 }
 
 .main-news-text {
