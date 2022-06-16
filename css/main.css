@@ -12,6 +12,42 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+.search{
+width: 275px;
+height: 45px;
+left: 836px;
+top: 30px;
+
+background: beige;
+border-radius: 60px;
+}
+
+.languages{
+width: 70px;
+height: 36px;
+left: 1136px;
+top: 35px;
+
+background: #DCE6FF;
+border-radius: 39px;
+}
+
+.voyti{
+width: 89px;
+height: 45px;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+background-color: #2959CE;
+text-decoration: none;
+border-radius: 10px;
+
+
+
+color: white;
+
+}
+
 .site-header-item-currency-link{
     text-decoration: none;
     color: #5E5F61;
@@ -69,7 +105,9 @@ color: #7F7F7F;
     width: 1050px;
     background-color: coral;
     display: flex;
+    justify-content: space-between;
     align-items: center;
+    border-radius: 10px;
 }
 
 .h2-text{
@@ -83,6 +121,13 @@ color: #7F7F7F;
     font-weight: 500;
     font-size: 20px;
     line-height: 26px;
+}
+
+.pokazat{
+
+width: 796px;
+background: blanchedalmond;
+border-radius: 10px;
 }
 
 .main-news-text {
